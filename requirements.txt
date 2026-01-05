@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_openai
+langchain_community
+
+uvicorn
+fastapi
+pydantic
+
+pytest
+aiogram
